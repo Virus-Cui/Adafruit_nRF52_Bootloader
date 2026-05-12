@@ -59,7 +59,7 @@
 #define USB_DESC_CDC_ONLY_PID  0x7693
 
 #define UF2_PRODUCT_NAME  "SlimeVR SlimeNRF Tracker AeroTracker Lite"
-#define UF2_VOLUME_LABEL  "AERO-Lite-BOOT"
+#define UF2_VOLUME_LABEL  "AERO-Lite"
 #define UF2_BOARD_ID      "slimevr-tracker-aerotracker-lite"
 #define UF2_INDEX_URL     "https://github.com/SlimeVR"
 
