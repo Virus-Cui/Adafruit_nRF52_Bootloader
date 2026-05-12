@@ -49,7 +49,7 @@
 // BLE OTA
 //--------------------------------------------------------------------+
 #define BLEDIS_MANUFACTURER  "Aero"
-#define BLEDIS_MODEL         "SlimeNRF Tracker AeroTracker"
+#define BLEDIS_MODEL         "SlimeNRF Tracker AeroTracker Lite"
 
 //--------------------------------------------------------------------+
 // USB
@@ -60,7 +60,7 @@
 
 #define UF2_PRODUCT_NAME  "SlimeVR SlimeNRF Tracker AeroTracker"
 #define UF2_VOLUME_LABEL  "AERO-BOOT"
-#define UF2_BOARD_ID      "slimevr-tracker-aerotracker"
+#define UF2_BOARD_ID      "slimevr-tracker-aerotracker-lite"
 #define UF2_INDEX_URL     "https://github.com/SlimeVR"
 
 #endif // _SLIMENRF_TRACKER_AEROTRACKER_H
